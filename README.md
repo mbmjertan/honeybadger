@@ -3,6 +3,32 @@ honeybadger
 
 Honeybadger, the *awesome* Tumblr theme.
 
+# What is Honeybadger?
+
+Honeybadger is a simple, free and responsive Tumblr theme based on the Foundation framework.
+
+# FAQ
+
+Q: What does responsive mean? 
+
+A: It means it adapts to the size of a screen.
+
+
+Q: I'm stuck!
+
+A: Ask for help (http://mehon.tumblr.com/ask)
+
+
+Q: I want a new feature!
+
+A: Sure. Submit it to our bug tracker.
+
+
+Q: Is this open source?
+
+A: Yes, this theme is MIT licensed. You can grab the code from well, here.
+
+
 # Installation
 There are two install methods:
 
